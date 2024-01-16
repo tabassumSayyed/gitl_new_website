@@ -73,7 +73,7 @@ const blogData = [
 const AIOfferings = [
   {
     _id: 1,
-    title: "Computer Vision ",
+    title: "Computer Vision",
     desc: "We specialize in custom video and image analysis tool development for computer vision and machine vision systems. We use advanced technologies like OpenCV to optimize existing computer vision algorithms or develop new ones.",
     cta: "Explore Service",
     ctaUrl: "",
@@ -133,11 +133,11 @@ const AIOfferings = [
         url: "/",
       },
       {
-        title: "Optical Character Recognition - PDF",
+        title: "Optical Character Recognition (OCR) PDF",
         url: "/",
       },
       {
-        title: "Account Payable, Bank Reconciliation, Invoice matching, Data Scraping ",
+        title: "Account Payable, Bank Reconciliation, Invoice matching, Data Scraping",
         url: "/",
       },
     ],
@@ -450,7 +450,7 @@ const page = () => {
 
       {/* Benefits Vertical Slider */}
       <Benefits
-        ribbon="Benefits "
+        ribbon="Benefits"
         ribbonTxtWhite="true"
         title=""
         desc="Artificial Intelligence (AI) and Machine Learning (ML) are driving transformative changes, offering multiple benefits that redefine the way you do business."
@@ -459,7 +459,7 @@ const page = () => {
 
       {/* Industry Spotlight Slider */}
       <>
-        <div className={` w-full bg-[#FFF] pt-20`}>
+        <div className={`w-full bg-[#FFF] pt-20`}>
           <div className="text-left max-w-screen-xl md:max-w-screen-xl mb-5 mx-auto p-5 pb-0 px-[2rem] grid grid-cols-1 ">
             {/* left */}
             <div className="bg-[#FFF] flex items-start flex-col justify-between  relative">
@@ -548,10 +548,10 @@ const page = () => {
 
       {/* Subscription */}
       <Subscription
-        title="Ready for Transformation with"
-        blue="AI and ML?"
+        title="Ready for Intelligent Solutions?"
+        blue=""
         title2=""
-        desc="Let's embark on your journey together aligned with your business goals."
+        desc="Share your details NOW for Smarter Business Future!"
       />
 
       {/* Infotech Weekly Updates */}
