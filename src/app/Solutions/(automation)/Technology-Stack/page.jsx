@@ -93,7 +93,7 @@ const TechStackOfferings = [
     title: "Custom Application Development",
     image:
       "/technologyStack/Service-Offerings_Custom-Application-Development.jpg",
-    desc: "With our extensive experience in the global marketplace, we build bespoke software solution that goes beyond off-the-shelf offerings.",
+    desc: "Leveraging extensive global experience, we specialize in developing bespoke applications that transcend generic off-the-shelf offerings. Our custom application development service ensures precise alignment with unique business needs, delivering an efficient application in the dynamic global marketplace. Our focus on technical excellence guarantees the delivery of application that exceed the expectations of our clients.",
     cta: "Know More",
     link: "",
   },
@@ -101,7 +101,7 @@ const TechStackOfferings = [
     _id: 2,
     title: "Legacy Modernisation",
     image: "/technologyStack/Service-Offerings_Legacy-Modernisation.jpg",
-    desc: "Continuously improving on best practices in IT consulting services, our application legacy modernization service helps customers to meet their Triple Aim goals while maximizing Return on Investment (RoI).",
+    desc: "We are committed to continual improvement in our best practices. Through application legacy modernization service, we enable businesses to achieve Triple Aim goals, assuring optimal Return on Investment (RoI) and a smooth transition to modernized, agile and future-ready application. By harnessing cutting-edge technologies, we transform legacy systems into effective and scalable solution.",
     cta: "Know More",
     link: "",
   },
@@ -118,7 +118,7 @@ const TechStackOfferings = [
     _id: 4,
     title: "Mobile Application ",
     image: "/technologyStack/Service-Offerings_Mobile-Application.jpg",
-    desc: "Leveraging the strengths of each OS, we develop a powerful backend and a beautiful frontend. We help you to experience most advance mobile application, seamlessly running on any platform.",
+    desc: "Optimising the strengths of each operating system, our expert team develops a robust backend and an aesthetically pleasing frontend. Our goal is to provide you with the most advanced, high performing mobile application, elevating your user engagement and delivering a seamless experience across any platform.",
     cta: "Know More",
     link: "",
   },
@@ -225,14 +225,13 @@ const page = () => {
             <div className="bg-[#FFF] flex items-center flex-col justify-between  relative">
               <div className="">
                 <h3 className="text-[42px]  leading-[54px] mb-3 font-bold ">
-                  100 + Applications developed & 50 + Expert developers
+                  200 + Applications Build and Delivered
                 </h3>
               </div>
               <div>
-                <p className="font-medium leading-[22px] md:w-[90%] ">
-                  Our focus centres on leveraging cutting edge and emerging
-                  technologies to develop high performing applications.
-                </p>
+                {/* <p className="font-medium leading-[22px] md:w-[90%] ">
+                  Our focus centres on leveraging cutting edge and emerging technologies to develop high performing applications.
+                </p> */}
               </div>
               <div className="flex justify-center items-center gap-20">
                 <div>
