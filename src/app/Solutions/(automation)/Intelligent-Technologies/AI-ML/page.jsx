@@ -229,7 +229,7 @@ const MLData = [{
   _id:1,
   imgURL: "/ai-ml/Expertise_Deep-Learning.jpg",
   title:"Deep Learning",
-  subTitle:"Our deep learning creates solutions that automate complex tasks data-driven decision-making, especially when it comes to forecasting your business's future.",
+  subTitle:"Our deep learning expertise builds solutions that automate complex tasks helping in data-driven decision-making, especially when it comes to forecasting your business's future.",
   ctaURL:""
 },{
   _id:2,
@@ -241,7 +241,7 @@ const MLData = [{
   _id:3,
   imgURL: "/ai-ml/Expertise_Unsupervised-Learning.jpg",
   title:"Unsupervised Learning",
-  subTitle:"With our unsupervised learning services reveal hidden patterns for business sustainability through data exploration without constraints, helping in customer segmentation, anomaly detection and more.",
+  subTitle:"Our unsupervised learning services reveal hidden patterns for business sustainability through data exploration without constraints, helping in customer segmentation, anomaly detection and more.",
   ctaURL:""
 },{
   _id:4,
