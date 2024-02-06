@@ -99,7 +99,7 @@ const TechStackOfferings = [
   },
   {
     _id: 2,
-    title: "Legacy Modernization - ROI capital ",
+    title: "Legacy Modernization - ROI capital",
     image: "/technologyStack/Service-Offerings_Legacy-Modernisation.jpg",
     desc: "We are committed to continual improvement in our best practices. Through application legacy modernization service, we enable businesses to achieve Triple Aim goals, assuring optimal Return on Investment (RoI) and a smooth transition to modernized, agile and future-ready application. By harnessing cutting-edge technologies, we transform legacy systems into effective and scalable solution.",
     cta: "",
